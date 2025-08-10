@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Uploaded files (e.g., KYC docs)
+uploads/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
